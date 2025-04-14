@@ -1,0 +1,13 @@
+# Welcome to Repo
+
+this repo about python code.
+
+the code is to find the pythagoras with params a and b as integer value.
+
+```pyhton
+import math
+
+def find_pythagoras (a:int, b:int) -> float:
+    c = math.sqrt(a**2 + b**2)
+    return c
+```
